@@ -1,0 +1,1 @@
+EPISODE,distance_traversed,mean_speed,std_speed,mean_track,std_track,reward_runn,fuel_start,fuel_end,fuel_consumed,rew_fuel
